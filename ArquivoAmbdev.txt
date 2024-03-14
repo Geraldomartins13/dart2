@@ -1,5 +1,10 @@
 Esse é o arq criado dentro do ramo AmbDEV
 
 passo 1
-passo 2
 passo 3
+
+passo 4
+passo 5
+passo 6
+
+fim
